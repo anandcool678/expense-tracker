@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
+//comment
 #include "solution.h"
 bool isPermutation(char input1[], char input2[])
 {
