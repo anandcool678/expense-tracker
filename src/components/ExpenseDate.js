@@ -1,3 +1,4 @@
+// expense date component
 import './ExpenseDate.css';
 
 function ExpenseDate(props){
