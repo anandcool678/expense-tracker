@@ -34,5 +34,8 @@ int main()
     char str1[size];
     char str2[size];
     cin >> str1 >> str2;
-    cout << (isPermutation(str1, str2) ? "true" : "false");
+    // cout << (isPermutation(str1, str2) ? "true" : "false");
+    if(isPermutation(str1, str2)) cout<<"true";
+    else cout<<"false";
+
 }
