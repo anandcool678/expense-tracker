@@ -1,5 +1,8 @@
 import Expenses from "./components/Expenses";
 
+// HI expenses.
+
+// Second commit.
 
 function App() {
   const expenses = [
