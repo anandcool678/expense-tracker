@@ -1,5 +1,6 @@
 import Expenses from "./components/Expenses";
 
+// HI expenses
 
 function App() {
   const expenses = [
