@@ -2,9 +2,7 @@ import Expenses from "./components/Expenses";
 
 // HI expenses.
 
-// Second commit.
-
-// third commit
+//For Hacktobarfest
 function App() {
   const expenses = [
     {
@@ -32,6 +30,11 @@ function App() {
       date: new Date(2021, 5, 12),
     },
   ];
+
+  /*
+        <h3>this is a expense tracker</h3>
+      <Expenses items={expenses}/>
+  */
   return (
     <div>
       <h2>Let's get started!</h2>
