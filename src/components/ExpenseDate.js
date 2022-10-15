@@ -1,6 +1,7 @@
 // expense date component
 import './ExpenseDate.css';
 
+//Function for js
 function ExpenseDate(props){
     return(
         <div className="expense-date">
